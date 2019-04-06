@@ -1,2 +1,7 @@
+# folders
 .vscode
 node_modules
+
+# dir
+build/
+dist/
