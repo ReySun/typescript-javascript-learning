@@ -1,18 +1,21 @@
 {
-  "name": "typescript-deep-learning",
+  "name": "typescript-javascript-learning",
   "version": "1.0.0",
-  "description": "learn typescript demo",
+  "description": "learn typescript javascript",
   "main": "index.js",
   "keywords": [
     "official demo",
-    "typescript demo"
+    "typescript demo",
+    "es6",
+    "javascript"
   ],
   "scripts": {
     "start": ""
   },
-  "author": "reysun",
+  "author": "reysun <reysun_sky@outlook.com>",
   "license": "MIT",
   "devDependencies": {
+    "reflect-metadata": "^0.1.13",
     "typescript": "^3.3.3333"
   }
 }
